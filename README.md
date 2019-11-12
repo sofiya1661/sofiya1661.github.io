@@ -2,7 +2,7 @@
 # студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) [Будагян С.О.](https://github.com/sofiya1661/sofiya1661.github.io)
 # Лабораторная 1
 <br> **Документирование программного кода**
-<br>  Разработать продукт для сотрудника который оптимизированно вытянет из его запроса таблицу и выдаст ему данные
+<br>  Разработать студентом проект обработки данных на основе облачных техноогий
 <br> <li> IDEF0 диаграмма
 <br> ![Ramus](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/model.png)
 <br> [Ramus](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/sixq%20(1).rsf)
