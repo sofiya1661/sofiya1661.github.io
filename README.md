@@ -43,9 +43,9 @@
 
 + Диаграмма последовательности:
 
-[UML-код диаграммы последовательности](https://github.com/sggst/Besedin.github.io/blob/master/diaPosl.txt)
+[UML-код диаграммы последовательности](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/prec2Code.txt)
 
-![Диаграмма последовательности](https://github.com/sggst/Besedin.github.io/blob/master/diaPoslPic.png)
+![Диаграмма последовательности](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/prec2.png)
 
 
 + Диаграмма ERD:
