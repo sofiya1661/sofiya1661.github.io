@@ -50,7 +50,7 @@
 
 + Диаграмма ERD:
 
-![Диаграмма ERD](https://github.com/sggst/Besedin.github.io/blob/master/erd.png)
+![Диаграмма ERD](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/erd.png)
 ***
 
 # Лабораторная 4
