@@ -9,11 +9,11 @@
 <br> Сотрудник пишет запрос на компьютере, по окончанию процесса написания статьи программа, оптимизированно для программного оборудования, выгружает данные в окно программы.
 <br> Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 <br> <li> Диаграмма классов
-<br> ![none](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumlClass.png)
-<br> [UML-код диаграммы классов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlanumClassCode.txt)
+<br> ![none](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumClass.png)
+<br> [UML-код диаграммы классов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumClassCode.txt)
 <br> <li> Диаграмма прецедентов
-<br> ![none](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumlPrec.png)
-<br> [UML-код диаграммы прецедентов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlanumPrecCode.txt)
+<br> ![none](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumPrec.png)
+<br> [UML-код диаграммы прецедентов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumPrecCode.txt)
 # Лабораторная 2
 # Лабораторная 3
 # Лабораторная 4
