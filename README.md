@@ -1,7 +1,5 @@
-# sofiya1661.github.io
-Репозиторий
 # Отчет а лабораторных работах
-# студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) [Галиулин Ф.Р.](https://github.com/LsFurkat/LsFurkat.github.io)
+# студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) [Будагян С.О.](https://github.com/sofiya1661/sofiya1661.github.io)
 # Лабораторная 1
 <br> **Документирование программного кода**
 <br>  Разработать продукт для сотрудника который оптимизированно вытянет из его запроса таблицу и выдаст ему данные
