@@ -38,7 +38,7 @@
 ***
 + Диаграмма DFD:
 
-![диаграмма DFD](https://github.com/sggst/Besedin.github.io/blob/master/dfdL3.png)
+![диаграмма DFD](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/dfd.png)
 
 
 + Диаграмма последовательности:
