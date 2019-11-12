@@ -1,0 +1,27 @@
+@startuml
+?
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Преподаватель" as user
+boundary "Студент" as app
+boundary "Разработка" as app2
+
+user -> app: Запрос
+activate app
+app->user: Проект
+deactivate app
+
+user --> app2: Объединение
+activate app2
+app <- app2: Выгрузка данных
+activate app
+app->app2: Объединение данных
+deactivate app
+app2->user: Сохранение данных
+deactivate app2
+@enduml
