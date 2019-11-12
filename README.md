@@ -16,23 +16,23 @@
 <br> [UML-код диаграммы прецедентов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PlantumPrecCode.txt)
 # Лабораторная 2
   
-[Файл развёрнутой модели](https://github.com/sggst/Besedin.github.io/blob/master/laby.rsf)
+[Файл развёрнутой модели](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/Лаба2.rsf)
 ***
 + Диаграмма PDC:
 
-![диаграмма PDC](https://github.com/sggst/Besedin.github.io/blob/master/idef0l2.png)
+![диаграмма PDC](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/pdc.png)
 
 
 + Диаграмма DFD:
 
-![Диаграмма DFD](https://github.com/sggst/Besedin.github.io/blob/master/dfd.png)
+![Диаграмма DFD](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/dfd.png)
 
 
 + Диаграмма прецедентов:
 
-[UML-код диаграммы прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrecl2.txt)
+[UML-код диаграммы прецедентов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/PrecCode.txt)
 
-![Диаграмма прецедентов](https://github.com/sggst/Besedin.github.io/blob/master/diaPrecl2.png)
+![Диаграмма прецедентов](https://github.com/sofiya1661/sofiya1661.github.io/blob/master/prec.png)
 ***
 ## Лабораторная 3
 ***
